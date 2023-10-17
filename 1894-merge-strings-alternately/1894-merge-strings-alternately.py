@@ -12,4 +12,4 @@ class Solution:
             word += word1[i:]
         if j < len(word2):
             word += word2[j:]
-        return word 
+        return word
